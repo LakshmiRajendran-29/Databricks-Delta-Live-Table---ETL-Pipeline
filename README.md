@@ -143,7 +143,9 @@ Example:
 
 📊 Pipeline DAG
 
-<img width="1642" height="1196" alt="image" src="https://github.com/user-attachments/assets/67f98a86-5740-4e3f-8a30-f8fdafd1fb44" />
+
+<img width="1172" height="721" alt="pl_elt_pipeline_circuitbox " src="https://github.com/user-attachments/assets/471835b4-808f-4c67-8843-178bfeaff8b3" />
+
 
 🚀 How to Run
 	1.	Create a DLT pipeline in Databricks
